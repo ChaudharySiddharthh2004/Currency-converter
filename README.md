@@ -45,13 +45,13 @@ Currency-Converter/
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/img1.png)
+![Home Page](img1.png)
 
 ---
 
 ### 💱 Conversion Result
 
-![Conversion Result](screenshots/img2.png)
+![Conversion Result](img2.png)
 
 ---
 
